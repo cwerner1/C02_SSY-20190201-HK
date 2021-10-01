@@ -14,7 +14,7 @@
     "lokijs": "^1.5.12",
     "morgan": "^1.10.0",
     "request": "^2.88.2",
-    "yarn": "^1.22.10"
+    "yarn": "^1.22.15"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
